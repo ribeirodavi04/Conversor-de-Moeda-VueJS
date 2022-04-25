@@ -1,5 +1,7 @@
 <template>
   <div id="app">
+    <h1>Conversor de Moedas</h1>
+
     <div class="row">
       <ConversorMoeda moeda-a="USD" moeda-b="BRL"/>
       <ConversorMoeda moeda-a="BRL" moeda-b="USD"/>
